@@ -1,2 +1,4 @@
-Arma-Help-SK-CZ
-===============
+Kompletný zoznam príkazov pre Arma2:OA(CO), Arma2 a ArmA (ale aj OFP) v off-line podobe.
+Program taktiež obsahuje niekoľko hlavných editačných tutoriálov a popisov dôležitých súborov používaných pri editácii v Arma2:OA(CO), Arma2 a ArmA ...
+
+Fulltextové vyhľadávanie, rýchla a prehľadná navigácia, nezávislosť na pripojení k internetu, obľúbené záložky ...
